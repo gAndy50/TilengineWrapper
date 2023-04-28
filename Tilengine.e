@@ -16,6 +16,8 @@ ifdef WINDOWS then
 	tile = open_dll("Tilengine.dll")
 	elsifdef LINUX or FREEBSD then
 	tile = open_dll("libTilengine.so")
+	elsifdef OSX then
+	tile = open_dll("Tilengine.dylib")
 end ifdef
 
 --Flags
@@ -1460,4 +1462,4 @@ export constant xTLN_ReleaseWorld = define_c_proc(tile,"+TLN_ReleaseWorld",{})
 public procedure TLN_ReleaseWorld()
 	c_proc(xTLN_ReleaseWorld,{})
 end procedure
-­674.0
+Â­674.0
