@@ -5,8 +5,7 @@ Copyright (c) 2023
 
 ABOUT:
 
-This is a wrapper for Tile Engine written in the Euphoria programming language. It allows you to use the Euphoria programming language for Tile Engine. Tile engine is a 2D
-game engine. It allows the developer to make games in arcade style or Sega Genesis or Super Nintendo style video games. 
+This is a wrapper for Tile Engine written in the Euphoria programming language. It allows you to use the Euphoria programming language for Tile Engine. Tile engine is a 2D game engine. It allows the developer to make games in arcade style or Sega Genesis or Super Nintendo style video games. 
 
 
 LICENSE:
