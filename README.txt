@@ -1,7 +1,7 @@
 Tile Engine Wrapper
 Author: Andy P.
 Icy Viking Games
-Copyright (c) 2023
+Copyright (c) 2024
 
 ABOUT:
 
