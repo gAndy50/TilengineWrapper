@@ -1,7 +1,7 @@
 --Eu Tile Engine
 --Written by Andy P.
 --Icy Viking Games
---Copyright (c) 2023
+--Copyright (c) 2025
 
 without warning
 
