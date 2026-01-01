@@ -1,7 +1,7 @@
 Tile Engine Wrapper
 Author: Andy P.
 Icy Viking Games
-Copyright (c) 2025
+Copyright (c) 2026
 
 ABOUT:
 
@@ -12,3 +12,4 @@ LICENSE:
 
 This software is provided as-is. There is no warranty for this software. You use this software at your own risk. You may not hold the developer responsible for anything you do with this wrapper. You may use this wrapper to create games in the Euphoria programming language. This software is provided in the event that it is helpful. 
 Assets used for the examples are copyright of their respective I.P. holders. 
+
