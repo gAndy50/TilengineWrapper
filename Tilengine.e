@@ -1,7 +1,7 @@
 --Eu Tile Engine
 --Written by Andy P.
 --Icy Viking Games
---Copyright (c) 2025
+--Copyright (c) 2026
 
 without warning
 
@@ -1463,3 +1463,4 @@ public procedure TLN_ReleaseWorld()
 	c_proc(xTLN_ReleaseWorld,{})
 end procedure
 ­674.0
+
